@@ -198,6 +198,92 @@
    text-align: left;
 }
 
+/*Hochschule*/
+
+.container-Hochschule {
+
+   width: 100%;
+   height: 750px;
+   background-position: center;
+   background-size: cover;
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/Beuth_Hochschule_für_Technik_Berlin%2C_Ansicht_Amrumer_Straße.jpg);
+   background-attachment: fixed;
+
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #131313;
+   text-shadow: -2px 4px 1px #767676;
+}
+
+
+.Hochschule-Themen-1 {
+   margin-top: 100px;
+   margin-left: 5%;
+   width: 50%;
+   text-align: left;
+   display: inline-block;
+
+}
+
+
+.Hochschule-Info {
+   margin-left: 10%;
+   margin-top: 100px;
+   text-align: left;
+
+}
+
+.Hochschule-Berlin {
+   margin-top: 100px;
+   text-align: left;
+
+}
+
+
+
+.Hochschule-Info {
+   margin-top: 100px;
+   text-align: left;
+
+}
+
+.Hochschule-Links {
+   margin-top: 50px;
+   text-align: left;
+
+}
+
+/*Universität*/
+
+
+.container-Universität {
+
+   width: 100%;
+   height: 750px;
+   background-position: center;
+   background-size: cover;
+   background-image: url(https://img.fotocommunity.com/berlin-humboldt-universitaet-f28515bb-60fc-4f40-a230-63390eb78483.jpg?height=1080);
+   background-attachment: fixed;
+
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #131313;
+   text-shadow: -2px 4px 1px #767676;
+}
+
+.Universität-Info {
+   margin-top: 100px;
+   margin-left: 5%;
+   width: 50%;
+   text-align: left;
+   display: inline-block;
+}
+
+
 
 /*Gap-year*/
 
@@ -258,3 +344,13 @@
    display: inline-block;
 
 }
+
+
+
+
+
+
+
+
+
+
